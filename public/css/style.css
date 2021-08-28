@@ -48,7 +48,8 @@ html{
     font-size: 26px;
     margin-top: 30px;
 }
-#table{
+.table{
+width: 100%;
     border-radius: 25px;
 }
 #titulo-2{
@@ -67,5 +68,9 @@ form{
 }
 
 .btn{
+    width: 100%;
+}
+
+input{
     width: 100%;
 }
